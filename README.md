@@ -16,3 +16,8 @@ This dataset pertains specifically to the Louisiana Floods that transpired in th
 ### Training and Validation Loss Curves:
 To visualize how the training and validation loss change over epochs, you can create loss curves.
 
+### Training and Validation Accuracy Curves:
+To visualize how the training and validation accuracy change over epochs, you can create accuracy curves.
+
+
+
