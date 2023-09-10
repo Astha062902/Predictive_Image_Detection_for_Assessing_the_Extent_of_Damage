@@ -10,3 +10,7 @@ This dataset pertains specifically to the Louisiana Floods that transpired in th
 
 ![1005](https://github.com/Astha062902/Predictive_Image_Detection_for_Assessing_the_Extent_of_Damage/assets/118397408/79aa618b-3821-44b7-87d4-3c6eafc3730d)
 ![1005_1](https://github.com/Astha062902/Predictive_Image_Detection_for_Assessing_the_Extent_of_Damage/assets/118397408/426e8d2e-17f4-40c6-bf6e-788f8625cb29)
+
+
+## Graphs
+# Training and Validation Loss Curves:
