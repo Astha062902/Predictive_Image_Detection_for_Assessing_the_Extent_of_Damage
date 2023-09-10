@@ -22,6 +22,9 @@ To visualize how the training and validation accuracy change over epochs, you ca
 ### Confusion Matrix:
 A confusion matrix can help you understand how well your model is classifying samples.
 
+### ROC Curve and AUC (Area Under the ROC Curve):
+If you're dealing with binary classification, you can create an ROC curve to visualize the trade-off between true positive rate and false positive rate.
+
 
 
 
