@@ -2,10 +2,11 @@
 Developed an innovative machine learning solution for precise flood damage assessment, leveraging image analysis of before and after photos of the same location. This project offers a valuable resource for disaster recovery and response planning.
 
 
-Markup: **##Dataset Description##**
-Markup:
+##Dataset Description
 The dataset comprises a total of 322 images, with each half consisting of images depicting a specific location both before and after a flood event. These images are individually identified by a unique identifier referred to as "Image_ID." It is pertinent to note that for each set of images depicting the before/after flood scenes, there is a corresponding image taken during the flood event. For example, the image labeled as "3005.png" captures the scene both before and after the flood, and in tandem with this image, there exists an image denoted as "3005_0.png." The appended "_0.png" suffix indicates that the area depicted within this image remained unaffected by the flood.
 This dataset pertains specifically to the Louisiana Floods that transpired in the year 2016. Accompanying the images, there is a complementary CSV file that delineates the associations between the images and their corresponding before and after flood states.
+
+
 
 
 
