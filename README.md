@@ -19,5 +19,12 @@ To visualize how the training and validation loss change over epochs, you can cr
 ### Training and Validation Accuracy Curves:
 To visualize how the training and validation accuracy change over epochs, you can create accuracy curves.
 
+### Confusion Matrix:
+A confusion matrix can help you understand how well your model is classifying samples.
+
+
+
+
+
 
 
