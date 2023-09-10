@@ -13,18 +13,27 @@ This dataset pertains specifically to the Louisiana Floods that transpired in th
 
 
 ## Graphs
+
 ### Training and Validation Loss Curves:
 To visualize how the training and validation loss change over epochs, you can create loss curves.
+<img width="397" alt="Screenshot 2023-09-10 120625" src="https://github.com/Astha062902/Predictive_Image_Detection_for_Assessing_the_Extent_of_Damage/assets/118397408/a440247c-5c28-4582-866a-a1163621a4a5">
 
 ### Training and Validation Accuracy Curves:
 To visualize how the training and validation accuracy change over epochs, you can create accuracy curves.
+<img width="423" alt="Screenshot 2023-09-10 120641" src="https://github.com/Astha062902/Predictive_Image_Detection_for_Assessing_the_Extent_of_Damage/assets/118397408/90202ce1-574e-4fbc-aad3-d2d4090b822e">
 
 ### Confusion Matrix:
 A confusion matrix can help you understand how well your model is classifying samples.
+<img width="472" alt="Screenshot 2023-09-10 120701" src="https://github.com/Astha062902/Predictive_Image_Detection_for_Assessing_the_Extent_of_Damage/assets/118397408/1ddaa7bb-ef50-403f-8d40-a88f3942649e">
 
 ### ROC Curve and AUC (Area Under the ROC Curve):
 If you're dealing with binary classification, you can create an ROC curve to visualize the trade-off between true positive rate and false positive rate.
 
+<img width="437" alt="Screenshot 2023-09-10 120713" src="https://github.com/Astha062902/Predictive_Image_Detection_for_Assessing_the_Extent_of_Damage/assets/118397408/9f1c500a-28e9-43ea-a4ff-894b062f254c">
+
+### Precision-Recall Curve:
+To evaluate the precision-recall trade-off, you can create a precision-recall curve.
+<img width="417" alt="Screenshot 2023-09-10 120728" src="https://github.com/Astha062902/Predictive_Image_Detection_for_Assessing_the_Extent_of_Damage/assets/118397408/d82e09f2-abe0-4c7a-82ac-77879d782cbf">
 
 
 
